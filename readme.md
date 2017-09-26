@@ -4,4 +4,6 @@ First file in Gib Project... I have to see how far things going on
 
 ## updating the first file 
 
-Need to back out the changes what i added 
+## Need to back out the changes what i added 
+
+forgot to add staging area ..doing this excercise once again 
